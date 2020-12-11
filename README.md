@@ -21,6 +21,18 @@ pip install -r requirements.txt
 python bot.py
 ```
 
+```
+(venv) λ py bot.py
+Spam Text : This is a spam!
+Do you want to add more messages(y/n) : n
+How many times : 20
+Spaming in  5
+Spaming!!
+Done
+Press any key to continue
+Happy hacking...! ;-)
+```
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
