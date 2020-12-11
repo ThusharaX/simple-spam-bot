@@ -4,12 +4,12 @@ import time
 import random
 
 
-def countdown(s):
-    while s:
-        timer = s
+def countdown(sec):
+    while not (sec < 0):
+        timer = sec
         print("Spaming in ", timer, end="\r")
         time.sleep(1)
-        s -= 1
+        sec -= 1
 
 
 spamText = []
@@ -27,10 +27,10 @@ while (flag == 'y'):
 count = int(input("How many times : "))
 
 # input time in seconds
-s = 5
+sec = 5
 
 # function call
-countdown(int(s))
+countdown(int(sec))
 print('\nSpaming!!')
 
 for _ in range(count):
