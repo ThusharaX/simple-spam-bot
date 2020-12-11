@@ -24,5 +24,9 @@ python bot.py
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+
+## Legal Notice:
+This tool is provided for educational use only. If you engage in any illegal activity, the author does not take any responsibility for it. By using this tool, you agree with these terms.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
