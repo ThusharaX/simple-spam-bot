@@ -2,6 +2,11 @@
 
 simple-spam-bot is a Python progrme for spam any text feild
 
+## Requirements
+
+Python 3.8.2
+[Download](https://www.python.org/downloads/release/python-382/)
+
 ## Installation
 
 ```bash
