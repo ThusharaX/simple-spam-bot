@@ -2,6 +2,7 @@ import pyautogui
 import keyboard
 import time
 import random
+from alive_progress import alive_bar
 
 
 def countdown(sec):
@@ -25,19 +26,21 @@ while (flag == 'y'):
         break
 
 count = int(input("How many times : "))
+interval = float(input("Time interval(sec) : "))
 
 # input time in seconds
 sec = 5
 
 # function call
 countdown(int(sec))
-print('\nSpaming!!')
 
-for _ in range(count):
-    pyautogui.typewrite(random.choice(spamText))
-    pyautogui.press('enter')
-    time.sleep(2)
-print('Done')
+with alive_bar(count, title="Spaming!", spinner="classic") as bar:
+    for _ in range(count):
+        pyautogui.typewrite(random.choice(spamText))
+        pyautogui.press('enter')
+        time.sleep(interval)
+        bar()
+print('\nDone')
 
 print("Press any key to continue")
 keyboard.read_key()

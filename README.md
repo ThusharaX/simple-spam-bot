@@ -26,8 +26,10 @@ python bot.py
 Spam Text : This is a spam!
 Do you want to add more messages(y/n) : n
 How many times : 20
+Time interval(sec) : 2
 Spaming in  5
-Spaming!!
+Spaming! |████████████████████████████████████████| 20/20 [100%] in 44.9s (0.45/s)
+
 Done
 Press any key to continue
 Happy hacking...! ;-)
