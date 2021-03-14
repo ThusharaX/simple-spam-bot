@@ -1,4 +1,7 @@
-# simple-spam-bot
+# simple-spam-
+
+### This project need a **star** ⭐ from you ♥
+<br>
 
 simple-spam-bot is a Python progrme for spam any text feild
 
