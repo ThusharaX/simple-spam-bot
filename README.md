@@ -2,6 +2,18 @@
 
 simple-spam-bot is a Python progrme for spam any text feild
 
+![GitHub top language](https://img.shields.io/github/languages/top/ThusharaX/simple-spam-bot)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ThusharaX.simple-spam-bot)
+![GitHub forks](https://img.shields.io/github/forks/ThusharaX/simple-spam-bot?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/ThusharaX/simple-spam-bot)
+![GitHub Repo stars](https://img.shields.io/github/stars/ThusharaX/simple-spam-bot?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/ThusharaX/simple-spam-bot)
+![GitHub watchers](https://img.shields.io/github/watchers/ThusharaX/simple-spam-bot?style=social)
+![GitHub issues](https://img.shields.io/github/issues/ThusharaX/simple-spam-bot)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ThusharaX/simple-spam-bot)
+![GitHub labels](https://img.shields.io/github/labels/ThusharaX/simple-spam-bot/help%20wanted)
+![GitHub](https://img.shields.io/github/license/ThusharaX/simple-spam-bot)
+
 ## Requirements
 
 Python 3.8.2
