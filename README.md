@@ -1,4 +1,4 @@
-# simple-spam-
+# Simple Spam BOT
 
 ### This project need a **star** ⭐ from you ♥
 <br>
