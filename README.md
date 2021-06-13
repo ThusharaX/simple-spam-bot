@@ -17,6 +17,8 @@ simple-spam-bot is a Python progrme for spam any text feild
 ![GitHub labels](https://img.shields.io/github/labels/ThusharaX/simple-spam-bot/help%20wanted)
 ![GitHub](https://img.shields.io/github/license/ThusharaX/simple-spam-bot)
 
+![cpp-programming](https://socialify.git.ci/ThusharaX/simple-spam-bot/image?description=1&forks=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
+
 ## Requirements
 
 Python 3.8.2
