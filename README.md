@@ -28,15 +28,22 @@ Python 3.8.2
 
 ```bash
 git clone https://github.com/ThusharaX/simple-spam-bot.git
-cd simple-spam-bot
-pip install -r requirements.txt
+```
 
+```bash
+cd simple-spam-bot
+```
+
+```bash
+pip install -r requirements.txt
 ```
 ## Usage
 
 ```bash
 python bot.py
 ```
+
+> :warning: **_NOTE:_** Before the 5-second countdown is over, you must go and click on the text field where you want to spam.
 
 ```
 (venv) λ py bot.py
