@@ -30,7 +30,7 @@ Python 3.8.2
 Download and run this
 ```
 📦
-[bot.exe](https://github.com/ThusharaX/simple-spam-bot/releases/download/v1.0.0/spam-bot.ThusharaX.exe)
+[spam-bot.exe](https://github.com/ThusharaX/simple-spam-bot/releases/download/v1.0.0/spam-bot.ThusharaX.exe)
 
 ### or
 
