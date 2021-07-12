@@ -1,7 +1,7 @@
 # Python Spam BOT
 
 # Author: Thushara Thiwanka
-# Version: v0.0.1
+# Version: v1.0.0
 # Released: 12-07-2021
 
 from src import main
