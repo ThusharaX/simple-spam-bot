@@ -1,8 +1,5 @@
 # Simple Spam BOT
 
-### This project need a **star** ⭐ from you ♥
-<br>
-
 simple-spam-bot is a Python progrme for spam any text feild
 
 ![GitHub top language](https://img.shields.io/github/languages/top/ThusharaX/simple-spam-bot)
