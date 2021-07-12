@@ -27,6 +27,16 @@ Python 3.8.2
 ## Installation
 
 ```bash
+Download and run this
+```
+📦
+[bot.exe](https://github.com/ThusharaX/simple-spam-bot/releases/download/v1.0.0/spam-bot.ThusharaX.exe)
+
+### or
+
+⏬ Follow these steps
+
+```bash
 git clone https://github.com/ThusharaX/simple-spam-bot.git
 ```
 
