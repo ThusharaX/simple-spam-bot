@@ -1,10 +1,16 @@
+# Python Spam BOT
+
+# Author: Thushara Thiwanka
+# Version: v0.0.1
+# Released: 12-07-2021
+
 import pyautogui
 import keyboard
 import time
 import random
 from alive_progress import alive_bar
 
-
+# countdown function
 def countdown(sec):
     while not (sec < 0):
         timer = sec
@@ -31,7 +37,7 @@ interval = float(input("Time interval(sec) : "))
 # input time in seconds
 sec = 5
 
-# function call
+# countdown function call
 countdown(int(sec))
 
 with alive_bar(count, title="Spaming!", spinner="classic") as bar:
