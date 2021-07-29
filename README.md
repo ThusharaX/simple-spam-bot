@@ -2,6 +2,8 @@
 
 simple-spam-bot is a Python progrme for spam any text feild
 
+[![gitlocalized ](https://gitlocalize.com/repo/6321/si/badge.svg)](https://gitlocalize.com/repo/6321/si?utm_source=badge)
+
 ![GitHub top language](https://img.shields.io/github/languages/top/ThusharaX/simple-spam-bot)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ThusharaX.simple-spam-bot)
 ![GitHub forks](https://img.shields.io/github/forks/ThusharaX/simple-spam-bot?style=social)
