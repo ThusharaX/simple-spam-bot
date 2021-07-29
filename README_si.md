@@ -2,6 +2,8 @@
 
 simple-spam-bot යනු ඕනෑම පෙළ ක්ෂේත්‍රයක් අයාචිත තැපැල් සඳහා වන පයිතන් වැඩසටහනකි
 
+[![gitlocalized ](https://gitlocalize.com/repo/6321/si/badge.svg)](https://gitlocalize.com/repo/6321/si?utm_source=badge)
+
 ![GitHub ඉහළ භාෂාව](https://img.shields.io/github/languages/top/ThusharaX/simple-spam-bot)![නරඹන්නන්ගේ ලාංඡනය](https://visitor-badge.glitch.me/badge?page_id=ThusharaX.simple-spam-bot)![GitHub forks](https://img.shields.io/github/forks/ThusharaX/simple-spam-bot?style=social)![GitHub දායකයින්](https://img.shields.io/github/contributors/ThusharaX/simple-spam-bot)![GitHub Repo තරු](https://img.shields.io/github/stars/ThusharaX/simple-spam-bot?style=social)![GitHub repo ප්‍රමාණය](https://img.shields.io/github/repo-size/ThusharaX/simple-spam-bot)![GitHub මුරකරුවන්](https://img.shields.io/github/watchers/ThusharaX/simple-spam-bot?style=social)![GitHub ගැටළු](https://img.shields.io/github/issues/ThusharaX/simple-spam-bot)![GitHub අදින්න ඉල්ලීම්](https://img.shields.io/github/issues-pr/ThusharaX/simple-spam-bot)![GitHub ලේබල](https://img.shields.io/github/labels/ThusharaX/simple-spam-bot/help%20wanted)![GitHub](https://img.shields.io/github/license/ThusharaX/simple-spam-bot)
 
 ![සරල-ස්පෑම්-බොට්](https://socialify.git.ci/ThusharaX/simple-spam-bot/image?description=1&forks=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
